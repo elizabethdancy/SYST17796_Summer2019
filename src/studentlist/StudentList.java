@@ -8,7 +8,7 @@ package studentlist;
 /**
  * A class that creates an array of chars and prints
  * them backwards
- * @author dancye
+ * @author dancye, 2019
  */
 public class StudentList {
 
